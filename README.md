@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Entropy-rgb!
+# 👋 Hello, I’m Entropy-rgb from IIIT Hyderabad!
 
 Welcome to my GitHub profile!
 
