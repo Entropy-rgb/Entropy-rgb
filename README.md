@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Entropy-rgb from IIIT Hyderabad!
+# 👋 Hello, I’m Somesh Kamad from IIIT Hyderabad!
 
 Welcome to my GitHub profile!
 
