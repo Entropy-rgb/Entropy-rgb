@@ -25,8 +25,8 @@ Welcome to my little corner of GitHub — where projects come to life and curios
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Entropy-rgb&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Entropy-rgb&theme=github_dark&layout=compact)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Entropy-rgb&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=midnight-purple)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Entropy-rgb&theme=midnight-purple&layout=compact)
 
 <br>
 
@@ -56,10 +56,10 @@ Welcome to my little corner of GitHub — where projects come to life and curios
 
 ## 📌 Featured Projects
 
-[![SpreadSheet-App](https://github-readme-stats.vercel.app/api/pin/?username=Entropy-rgb&repo=SpreadSheet-App&theme=github_dark)](https://github.com/Entropy-rgb/SpreadSheet-App)
-[![IIIT-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Entropy-rgb&repo=IIIT-Notes&theme=github_dark)](https://github.com/Entropy-rgb/IIIT-Notes)
-[![bolodb](https://github-readme-stats.vercel.app/api/pin/?username=Entropy-rgb&repo=bolodb&theme=github_dark)](https://github.com/Entropy-rgb/bolodb)
-[![Chess-Engine](https://github-readme-stats.vercel.app/api/pin/?username=Entropy-rgb&repo=Chess-Engine&theme=github_dark)](https://github.com/Entropy-rgb/Chess-Engine)
+[![SpreadSheet-App](https://github-stats-extended.vercel.app/api/pin/?username=Entropy-rgb&repo=SpreadSheet-App&theme=midnight-purple)](https://github.com/Entropy-rgb/SpreadSheet-App)
+[![IIIT-Notes](https://github-stats-extended.vercel.app/api/pin/?username=Entropy-rgb&repo=IIIT-Notes&theme=midnight-purple)](https://github.com/Entropy-rgb/IIIT-Notes)
+[![bolodb](https://github-stats-extended.vercel.app/api/pin/?username=Entropy-rgb&repo=bolodb&theme=midnight-purple)](https://github.com/Entropy-rgb/bolodb)
+[![Chess-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Entropy-rgb&repo=Chess-Engine&theme=midnight-purple)](https://github.com/Entropy-rgb/Chess-Engine)
 
 <!--
 **Entropy-rgb/Entropy-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
