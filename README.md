@@ -13,9 +13,9 @@ Welcome to my little corner of GitHub — where projects come to life and curios
 ## Stats 📊
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Entropy-rgb/Entropy-rgb/output/dist/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Entropy-rgb/Entropy-rgb/output/dist/snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Entropy-rgb/Entropy-rgb/output/dist/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Entropy-rgb/Entropy-rgb/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Entropy-rgb/Entropy-rgb/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Entropy-rgb/Entropy-rgb/output/snake.svg">
 </picture>
 
 <br>
