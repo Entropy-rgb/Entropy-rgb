@@ -21,7 +21,7 @@ Welcome to my little corner of GitHub — where projects come to life and curios
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Entropy-rgb&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Entropy-rgb)](https://git.io/streak-stats)
 
 <br>
 
